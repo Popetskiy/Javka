@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         float balance = 200F; //остаток на счете
-        float added = 2000F; // пополнение счета
+        float added = 3000F; // пополнение счета
         int bonus = 100;
         float newBalance = 0;
         if (added >= 1000) {
