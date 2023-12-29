@@ -12,8 +12,6 @@ public class Main {
         } else {
             newBalance = balance + added;
             System.out.println("На вашем балансе " + newBalance + " рублей.");
-
-
         }
     }
 }
